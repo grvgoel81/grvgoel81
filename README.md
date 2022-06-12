@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/pjdurden/pjdurden/blob/main/assets/helloworld.gif"/></p>
 
 ## Gaurav Goel (Him/He) ⚡
-- 🔭 Android developer who likes to develop mobile applications in order to solve problems, Currently working as lead Android develper at [Airtel X Labs](https://www.airtel.in).
+- 🔭 Android developer who likes to develop mobile applications in order to solve problems, currently working as lead Android develper at [Airtel X Labs](https://www.airtel.in).
 - 👯 I study about technologies that interest me and solve programming problems.
 - 💬 Let's talk about Language Technologies, Data Structures and Algorithms, Machine Learning , Woody Allen.
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/gaurav-goel-b72a1269/) [Facebook](https://www.facebook.com/gaurav.goel.142/)
