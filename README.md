@@ -38,7 +38,7 @@ Here's one of my favorite movies of all time 🎥:- [**Annie Hall** by **Woody A
 
 1. **[Android Thanks App](https://play.google.com/store/apps/details?id=com.myairtelapp)**  
 2. **[TrueBalance](https://play.google.com/store/apps/details?id=com.balancehero.truebalance)**
-3. **[CloverGo(Android)](https://play.google.com/store/apps/details?id=com.firstdata.clovergo&hl=en_IN&gl=US)**
+3. **[Clover Go G1-Point of Sale](https://play.google.com/store/apps/details?id=com.firstdata.clovergo&hl=en_IN&gl=US)**
 4. **[Fave | Cashback, Pay Later](https://play.google.com/store/apps/details?id=com.kfit.fave&hl=en_IN&gl=US)**
 5. **[Albertsons Deals & Delivery](https://play.google.com/store/apps/details?id=com.safeway.client.android.albertsons&hl=en_IN&gl=US)**
 6. **[Salon Centric By Loreal](https://play.google.com/store/apps/details?id=com.saloncentric.app&hl=en_AU)**
