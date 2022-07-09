@@ -7,6 +7,8 @@
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/gaurav-goel-b72a1269/) [Facebook](https://www.facebook.com/gaurav.goel.142/)
 - ⚡ **fact about me**: Loves to connect with people and learning new things.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=grvgoel81&label=Views&color=blue&style=plastic&style=for-the-badge" alt="grvgoel81" /> </p>
+
 <details>
 <summary>
   <b> Click Here To Know More </b>
