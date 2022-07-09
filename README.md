@@ -9,15 +9,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grvgoel81&label=Views&color=blue&style=plastic&style=for-the-badge" alt="grvgoel81" /> </p>
 
-<details>
-<summary>
-  <b> Click Here To Know More </b>
-</summary>
-
 
 ### Little More About Me  
 
-I love movies 🎥, cooking :ramen:, music :saxophone:, Sketching 🖌️	and video games :video_game:. I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Leadership, Collaboration and Team Building. Mentored students regarding topics such as technology, management and diversity. I'm currently focusing :android: of Mobile development and algorithms.
+I love movies 🎥, cooking :ramen:, music :saxophone:, Sketching 🖌️	and video games :video_game:. I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Leadership, Collaboration and Team Building. Mentored students regarding topics such as technology, management and diversity. I'm currently focusing :android: of Mobile development and algorithms.  
 
 Here's one of my favorite movies of all time 🎥:- [**Annie Hall** by **Woody Allen**.](https://www.youtube.com/watch?v=OqVgCfZX-yE)
 
@@ -44,6 +39,11 @@ Here's one of my favorite movies of all time 🎥:- [**Annie Hall** by **Woody A
 4. **[Fave | Cashback, Pay Later](https://play.google.com/store/apps/details?id=com.kfit.fave&hl=en_IN&gl=US)**
 5. **[Albertsons Deals & Delivery](https://play.google.com/store/apps/details?id=com.safeway.client.android.albertsons&hl=en_IN&gl=US)**
 6. **[Salon Centric By Loreal](https://play.google.com/store/apps/details?id=com.saloncentric.app&hl=en_AU)**
+
+## 📈 Activity Graph
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=grvgoel81&theme=minimal"/>
+</p>
 
  
 <br></details>
