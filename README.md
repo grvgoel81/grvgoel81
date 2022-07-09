@@ -45,16 +45,16 @@ Here's one of my favorite movies of all time 🎥:- [**Annie Hall** by **Woody A
 	<img src="https://activity-graph.herokuapp.com/graph?username=grvgoel81&theme=minimal"/>
 </p>
 
- 
-<br></details>
-<p float="left" align="middle" height="400" width="400">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=grvgoel81&show_icons=true,prs"/>
-  </p>
-  <p float="left" align="middle" height="300" width="400">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=grvgoel81&langs_count=5&show_icons=true&hide=C,CUDA" />
-  </p>
-  
-  
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grvgoel81&theme=vue"/>
+</p>
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=grvgoel81&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=grvgoel81&theme=vue" />
+</p>
   
 
 <!-- footer --!>
