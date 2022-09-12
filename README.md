@@ -3,7 +3,7 @@
 ## Gaurav Goel (Him/He) ⚡
 - 🔭 Android developer who likes to develop mobile applications in order to solve problems, currently working as lead Android develper at [Airtel Digital](https://www.airtel.in).
 - 👯 I study about technologies that interest me and solve programming problems.
-- 💬 Let's talk about Language Technologies, Data Structures and Algorithms, Machine Learning , Woody Allen.
+- 💬 Let's talk about Language Technologies, Data Structures and Algorithms, Web3, Blockchain, Key Management & authentication.
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/gaurav-goel-b72a1269/) [Facebook](https://www.facebook.com/gaurav.goel.142/)
 - ⚡ **fact about me**: Loves to connect with people and learning new things.
 
