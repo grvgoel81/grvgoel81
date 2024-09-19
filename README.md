@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/pjdurden/pjdurden/blob/main/assets/helloworld.gif"/></p>
 
 ## Gaurav Goel (Him/He) ⚡
-- 🔭 Android developer who likes to develop mobile applications in order to solve problems, currently working as lead Android develper at [Airtel Digital](https://play.google.com/store/apps/details?id=com.myairtelapp&hl=en_IN).
+- 🔭 Android developer who likes to develop mobile applications in order to solve problems, currently working as lead Android develper at [Web3Auth](https://web3auth.io/).
 - 👯 I study about technologies that interest me and solve programming problems.
 - 💬 Let's talk about Language Technologies, Android, Kotlin, Mobile solutions, Data Structures and Algorithms, Web3, Blockchain, Key Management & authentication.
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/gaurav-goel-b72a1269/) [Facebook](https://www.facebook.com/gaurav.goel.142/)
