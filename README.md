@@ -52,7 +52,7 @@ Here's one of my favorite movies of all time 🎥:- [**Annie Hall** by **Woody A
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=grvgoel81&theme=vue" />
+	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=grvgoel81&theme=vue" />
 </p>
   
 
