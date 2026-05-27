@@ -12,7 +12,7 @@
 
 ### Little More About Me  
 
-I love movies 🎥, cooking :ramen:, music :saxophone:, Sketching 🖌️	and video games :video_game:. I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Leadership, Collaboration and Team Building. Mentored students regarding topics such as technology, management and diversity. I'm currently focusing :android: of Mobile development and algorithms.  
+I love movies 🎥, music :saxophone:, Sketching 🖌️	and video games :video_game:. I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Leadership, Collaboration and Team Building. Mentored students regarding topics such as technology, management and diversity. I'm currently focusing :android: of Mobile development and algorithms.  
 
 Here's one of my favorite movies of all time 🎥:- [**Annie Hall** by **Woody Allen**.](https://www.youtube.com/watch?v=OqVgCfZX-yE)
 
